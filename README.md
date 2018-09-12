@@ -1,2 +1,2 @@
 # overfitting
-Build a model that will give accurate predictions on unseen data
+Build a model in Python that will give accurate predictions on unseen data
