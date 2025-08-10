@@ -1,10 +1,10 @@
 # Don't Overfit! - A Kaggle Competition
 
-This project is an attempt to solve the "Don't Overfit! II" competition on Kaggle. The goal is to build a model that accurately predicts a binary target variable on a large test set, given a very small training set.
+This project is an attempt to solve the "Don't Overfit!" competition on Kaggle. The goal is to build a model that accurately predicts a binary target variable on a large test set, given a very small training set.
 
 ## Dataset
 
-The dataset for this project is from the [Don't Overfit! II](https://www.kaggle.com/c/overfitting) Kaggle competition.
+The dataset for this project is from the [Don't Overfit!](https://www.kaggle.com/competitions/overfitting/) Kaggle competition.
 
 *   **Training data:** 250 samples
 *   **Test data:** 19,750 samples
